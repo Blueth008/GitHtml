@@ -25,7 +25,10 @@
 
 //jQuery的快捷写法
 (function ($) {
-  $('h1').css("background-color","yellow");
+  // $('h1').css("background-color","yellow");   /*测试jQuery的快速函数*/
+
+
+
 
 
 })(jQuery);
